@@ -4,11 +4,13 @@ IT and software sales professional with 10+ years selling to enterprise and tech
 
 ### What I'm building
 
+**AWS off-site backup** ([aws-s3-homelab-backup](https://github.com/Jmas01/aws-s3-homelab-backup)). Encrypted, ransomware-resistant backups of my homelab to Amazon S3: an upload-only IAM key, client-side encryption, lifecycle rules to Glacier Deep Archive, systemd-scheduled uploads, and a restore test verified by checksum. About $1 a month.
+
 **Multi-agent AI workspace.** A personal knowledge base that several AI agents work from together — Claude Code, OpenAI Codex, Hermes, and Google Antigravity (Gemini), coordinated through Multica. It runs on a shared library of reusable skills, a capability registry that records which agent can run each skill and on what evidence, and validation scripts that keep every agent's copy in sync. Built by directing AI agents rather than hand-writing code.
 
 **Homelab.** Self-hosted infrastructure on Proxmox, Docker, and Unraid, with documented architecture, operating procedures, recovery runbooks, and automated health alerts.
 
-These projects live in private repositories. I'm happy to walk through them.
+The AI workspace and the homelab documentation live in private repositories. I'm happy to walk through them.
 
 ### Certifications
 
